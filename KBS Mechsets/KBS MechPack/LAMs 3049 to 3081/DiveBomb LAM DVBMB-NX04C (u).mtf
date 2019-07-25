@@ -1,0 +1,152 @@
+Version:1.0
+DiveBomb LAM
+DVBMB-NX04C (u)
+
+Config:LAM
+TechBase:Inner Sphere
+Era:3066
+Source:KBS_Updates
+Rules Level:3
+
+Mass:55
+Engine:275 Light Engine(IS)
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Standard(Inner Sphere)
+LA Armor:13
+RA Armor:13
+LT Armor:14
+RT Armor:14
+CT Armor:20
+HD Armor:9
+LL Armor:19
+RL Armor:19
+RTL Armor:4
+RTR Armor:4
+RTC Armor:7
+
+Weapons:5
+MRM 10, Left Torso
+LRM 5, Right Torso
+Medium Laser, Right Arm
+Medium Laser, Left Arm
+Streak SRM 2, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Landing Gear
+Avionics
+Fusion Engine
+Fusion Engine
+Jump Jet
+MRM 10
+MRM 10
+ISCASE
+IS MRM 10 Ammo
+ISC3iUnit
+ISC3iUnit
+-Empty-
+
+Right Torso:
+Landing Gear
+Avionics
+Fusion Engine
+Fusion Engine
+Jump Jet
+ISStreakSRM2
+LRM 5
+IS Streak SRM 2 Ammo
+ISCASE
+IS Ammo LRM-5
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Landing Gear
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Avionics
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

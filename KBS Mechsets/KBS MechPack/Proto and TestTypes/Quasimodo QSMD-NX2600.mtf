@@ -1,0 +1,136 @@
+Version:1.1
+Quasimodo
+QSMD-NX2600
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2600
+Rules Level:4
+
+Mass:45
+Engine:135 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:13
+RA Armor:13
+LT Armor:15
+RT Armor:15
+CT Armor:16
+HD Armor:9
+LL Armor:21
+RL Armor:21
+RTL Armor:6
+RTR Armor:6
+RTC Armor:9
+
+Weapons:10
+1 ISAC20, Right Torso, Ammo:10
+1 ISMachine Gun, Left Arm, Ammo:400
+1 ISMachine Gun, Left Arm
+1 ISMachine Gun, Left Arm
+1 ISMachine Gun, Left Arm
+1 ISMachine Gun, Right Arm
+1 ISMachine Gun, Right Arm
+1 ISMachine Gun, Right Arm
+1 ISMachine Gun, Right Arm
+1 ISMediumLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMG Ammo (100)
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMG Ammo (100)
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISMediumLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20
+ISAC20 Ammo
+ISAC20 Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Heat Sink
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink

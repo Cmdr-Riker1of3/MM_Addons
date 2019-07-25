@@ -1,0 +1,132 @@
+Version:1.1
+Ronin
+SA-RN
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3053
+Rules Level:4
+
+Mass:50
+Engine:250 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:14
+RA Armor:14
+LT Armor:16
+RT Armor:16
+CT Armor:21
+HD Armor:9
+LL Armor:19
+RL Armor:19
+RTL Armor:8
+RTR Armor:8
+RTC Armor:8
+
+Weapons:6
+1 Claw, Left Arm
+1 ISLargePulseLaser, Right Arm
+1 ISSRM4, Right Torso, Ammo:50
+1 ISSRM4, Right Torso
+1 ISSRM4, Left Torso
+1 ISSRM4, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Claw
+Claw
+Claw
+Claw
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargePulseLaser
+ISLargePulseLaser
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISSRM4
+ISArtemisIV
+ISSRM4
+ISArtemisIV
+ISSRM4 Ammo Artemis-capable
+ISSRM4 Ammo Artemis-capable
+-Empty-
+-Empty-
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISSRM4
+ISArtemisIV
+ISSRM4
+ISArtemisIV
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

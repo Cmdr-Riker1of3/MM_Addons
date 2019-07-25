@@ -1,0 +1,132 @@
+Version:1.1
+Shockwave [3068 TestType]
+SHCKWV-NX
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3068
+Rules Level:3
+
+Mass:80
+Engine:320 Light Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Fibrous
+LA Armor:26
+RA Armor:26
+LT Armor:22
+RT Armor:22
+CT Armor:32
+HD Armor:9
+LL Armor:33
+RL Armor:33
+RTL Armor:11
+RTR Armor:11
+RTC Armor:16
+
+Weapons:6
+1 ISImprovedC3CPU, Center Torso
+1 ISMML7, Left Torso, Ammo:68
+1 ISMML7, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISHeavyPPC, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+ISHeavyPPC
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISMediumLaser
+ISMML7 SRM Ammo
+ISMML7 LRM Ammo
+Jump Jet
+Jump Jet
+ISCASE
+
+Right Torso:
+Engine
+Engine
+ISMML7
+ISMML7
+ISMML7
+ISMML7
+ISMediumLaser
+ISMML7 SRM Ammo
+ISMML7 LRM Ammo
+Jump Jet
+Jump Jet
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

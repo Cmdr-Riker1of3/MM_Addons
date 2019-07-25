@@ -1,0 +1,134 @@
+Version:1.1
+BoneCrusher
+BNCRSHR-B5
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3115
+Rules Level:3
+
+Mass:75
+Engine:300 Light Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:20
+RA Armor:20
+LT Armor:20
+RT Armor:20
+CT Armor:30
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:9
+RTR Armor:9
+RTC Armor:11
+
+Weapons:8
+1 ISImprovedC3CPU, Center Torso
+1 ISPPC, Left Torso
+1 ISPPC, Right Torso
+1 Mace, Left Arm
+1 ISMachine Gun, Right Arm, Ammo:200
+1 ISMachine Gun, Right Arm
+1 ISMachine Gun, Right Arm
+1 ISMachine Gun, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISPPC
+ISPPC
+ISPPC
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+ISPPC
+ISPPC
+ISPPC
+Jump Jet
+Jump Jet
+ISMG Ammo (200)
+-Empty-
+-Empty-
+-Empty-
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

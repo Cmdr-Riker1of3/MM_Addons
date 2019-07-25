@@ -1,0 +1,131 @@
+Version:1.1
+BoneCrusher
+BNCRSHR-NX2561
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2561
+Rules Level:4
+
+Mass:75
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Single
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:22
+RA Armor:22
+LT Armor:20
+RT Armor:20
+CT Armor:29
+HD Armor:9
+LL Armor:28
+RL Armor:28
+RTL Armor:6
+RTR Armor:6
+RTC Armor:10
+
+Weapons:5
+1 ISAC10, Right Arm, Ammo:20
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 WreckingBall, Left Arm
+1 ISMediumLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+WreckingBall
+WreckingBall
+WreckingBall
+WreckingBall
+WreckingBall
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10 Ammo
+ISAC10 Ammo
+
+Left Torso:
+ISMediumLaser
+ISMediumLaser
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISMediumLaser
+-Empty-
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Heat Sink
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+-Empty-

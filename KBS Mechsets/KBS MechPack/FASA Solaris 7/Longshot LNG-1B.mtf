@@ -1,0 +1,133 @@
+Version:1.1
+Longshot
+LNG-1B
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3053
+Rules Level:4
+
+Mass:35
+Engine:245 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:7
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:7
+RA Armor:7
+LT Armor:11
+RT Armor:11
+CT Armor:14
+HD Armor:9
+LL Armor:10
+RL Armor:10
+RTL Armor:5
+RTR Armor:5
+RTC Armor:7
+
+Weapons:7
+1 ISSRM6, Left Torso, Ammo:30
+1 ISSRM6, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISSmallLaser, Left Torso
+1 ISSmallLaser, Right Torso
+1 ISNarcBeacon, Right Arm, Ammo:6
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISNarcBeacon
+ISNarcBeacon
+IS Ammo Narc
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISSRM6
+ISSRM6
+ISMediumLaser
+ISSmallLaser
+ISSRM6 Ammo
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+Engine
+ISSRM6
+ISSRM6
+ISMediumLaser
+ISSmallLaser
+ISSRM6 Ammo
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

@@ -1,0 +1,140 @@
+Version:1.1
+Cudgel
+CDG-1B
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3052
+Rules Level:4
+
+Mass:80
+Engine:320 Light Fusion Engine
+Structure:Standard
+Myomer:ISMASC
+
+Heat Sinks:19 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:25
+RA Armor:25
+LT Armor:26
+RT Armor:26
+CT Armor:35
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:14
+1 Mace, Left Arm
+1 ISMachine Gun, Left Torso, Ammo:200
+1 ISMachine Gun, Left Torso
+1 ISMachine Gun, Left Torso
+1 ISMachine Gun, Left Torso
+1 ISMachine Gun, Left Torso
+1 ISMachine Gun, Right Torso
+1 ISMachine Gun, Right Torso
+1 ISMachine Gun, Right Torso
+1 ISMachine Gun, Right Torso
+1 ISMachine Gun, Right Torso
+1 ISSRM6, Left Torso, Ammo:15
+1 ISSmallPulseLaser, Left Torso
+1 ISSmallPulseLaser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISSRM6
+ISSRM6
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISSmallPulseLaser
+Heat Sink
+Heat Sink
+
+Right Torso:
+Engine
+Engine
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISSmallPulseLaser
+ISMASC
+ISMASC
+ISMASC
+ISMASC
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMG Ammo (200)
+ISSRM6 Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+Heat Sink
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink

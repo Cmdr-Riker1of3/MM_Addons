@@ -1,0 +1,137 @@
+Version:1.1
+Sasquatch
+SQS-TH-001
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3055
+Rules Level:2
+
+Mass:85
+Engine:340 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:18 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:23
+RA Armor:23
+LT Armor:27
+RT Armor:27
+CT Armor:31
+HD Armor:9
+LL Armor:25
+RL Armor:25
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:11
+1 ISSmallLaser (R), Head (R)
+1 ISGaussRifle, Right Arm, Ammo:8
+1 ISMediumPulseLaser, Left Arm
+1 ISMediumPulseLaser, Left Arm
+1 ISMediumPulseLaser, Left Arm
+1 ISMediumPulseLaser, Left Arm
+1 ISSmallPulseLaser, Left Torso
+1 ISSmallPulseLaser, Left Torso
+1 ISAntiMissileSystem, Right Torso
+1 ISMachine Gun, Left Torso, Ammo:200
+1 ISMachine Gun, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMediumPulseLaser
+ISMediumPulseLaser
+ISMediumPulseLaser
+ISMediumPulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGauss Ammo
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISSmallPulseLaser
+ISSmallPulseLaser
+ISMachine Gun
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Torso:
+Engine
+Engine
+Engine
+ISAntiMissileSystem
+IS AMS Ammo
+ISMachine Gun
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMG Ammo (200)
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallLaser (R)
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet

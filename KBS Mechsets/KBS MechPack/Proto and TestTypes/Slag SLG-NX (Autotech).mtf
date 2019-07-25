@@ -1,0 +1,125 @@
+Version:1.1
+Slag
+SLG-NX (Autotech)
+
+Config:Quad
+TechBase:Inner Sphere
+Era:2767
+Rules Level:1
+
+Mass:70
+Engine:280 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:19 Single
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:23
+RT Armor:23
+CT Armor:33
+HD Armor:9
+LL Armor:28
+RL Armor:28
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:11
+1 ISFlamer, Left Torso
+1 ISFlamer, Head
+1 ISFlamer, Right Torso
+1 ISSRM2, Left Torso, Ammo:150
+1 ISSRM2, Left Torso
+1 ISSRM2, Left Torso
+1 ISSRM2, Right Torso
+1 ISSRM2, Right Torso
+1 ISSRM2, Right Torso
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Left Torso:
+ISFlamer
+Jump Jet
+Jump Jet
+ISMediumLaser
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2 Ammo
+ISSRM2 Ammo
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISFlamer
+Jump Jet
+Jump Jet
+ISMediumLaser
+ISSRM2
+ISSRM2
+ISSRM2
+ISSRM2 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISFlamer
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink

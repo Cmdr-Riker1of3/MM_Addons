@@ -1,0 +1,137 @@
+Version:1.1
+Monster
+MNSTR-NX2804
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2804
+Rules Level:4
+
+Mass:100
+Engine:200 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:18 Single
+Walk MP:2
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:30
+RT Armor:30
+CT Armor:46
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:15
+
+Weapons:11
+1 ISSmallLaser (R), Center Torso (R)
+1 ISAC5, Left Torso, Ammo:80
+1 ISAC5, Left Arm
+1 ISAC5, Right Torso
+1 ISAC5, Right Arm
+1 ISMachine Gun, Left Arm, Ammo:400
+1 ISMachine Gun, Left Arm
+1 ISMachine Gun, Right Arm
+1 ISMachine Gun, Right Arm
+1 ISLargeLaser, Right Torso
+1 ISLargeLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Heat Sink
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+ISAC5 Ammo
+ISMachine Gun
+ISMachine Gun
+ISMG Ammo (100)
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Heat Sink
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+ISAC5 Ammo
+ISMachine Gun
+ISMachine Gun
+ISMG Ammo (100)
+
+Left Torso:
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+Heat Sink
+ISAC5 Ammo
+Heat Sink
+ISLargeLaser
+ISLargeLaser
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+Heat Sink
+ISAC5 Ammo
+Heat Sink
+ISLargeLaser
+ISLargeLaser
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSmallLaser (R)
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink

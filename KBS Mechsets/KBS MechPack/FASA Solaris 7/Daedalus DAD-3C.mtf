@@ -1,0 +1,132 @@
+Version:1.1
+Daedalus
+DAD-3C
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3053
+Rules Level:4
+
+Mass:45
+Engine:270 XL Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Standard Armor
+LA Armor:11
+RA Armor:11
+LT Armor:16
+RT Armor:16
+CT Armor:19
+HD Armor:9
+LL Armor:15
+RL Armor:15
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:6
+1 ISMachine Gun, Left Arm, Ammo:200
+1 ISLargePulseLaser, Right Arm
+1 ISSmallLaser, Right Torso
+1 ISSRM4, Right Torso, Ammo:25
+1 ISSRM4, Left Torso
+1 ISSRM6, Left Torso, Ammo:15
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISMachine Gun
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargePulseLaser
+ISLargePulseLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+Engine
+ISSRM4
+ISSRM6
+ISSRM6
+-Empty-
+Jump Jet
+ISSRM6 Ammo
+ISSRM4 Ammo
+ISMG Ammo (100)
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISSRM4
+ISSmallLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Jump Jet
+Jump Jet
+Jump Jet
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

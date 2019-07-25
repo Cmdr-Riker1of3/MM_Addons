@@ -1,0 +1,131 @@
+Version:1.1
+Grimlock
+GRMLCK-NX (Autotech)
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2767
+Rules Level:1
+
+Mass:85
+Engine:255 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:15 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:23
+RT Armor:23
+CT Armor:36
+HD Armor:9
+LL Armor:31
+RL Armor:31
+RTL Armor:12
+RTR Armor:12
+RTC Armor:15
+
+Weapons:5
+1 ISAC10, Left Torso, Ammo:20
+1 ISAC10, Right Torso
+1 ISLargeLaser, Left Torso
+1 ISLargeLaser, Right Torso
+1 ISFlamer, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISAC10 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISAC10 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISLargeLaser
+ISLargeLaser
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISAC10
+ISLargeLaser
+ISLargeLaser
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Heat Sink
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISFlamer
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
