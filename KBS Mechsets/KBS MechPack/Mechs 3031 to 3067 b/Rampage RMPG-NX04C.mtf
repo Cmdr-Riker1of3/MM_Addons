@@ -1,0 +1,126 @@
+Version:1.1
+Rampage
+RMPG-NX04C
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3065
+Rules Level:2
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:29
+RA Armor:29
+LT Armor:24
+RT Armor:24
+CT Armor:34
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:7
+RTR Armor:7
+RTC Armor:11
+
+Weapons:12
+1 ISMachine Gun, Left Arm, Ammo:400
+1 ISMachine Gun, Head
+1 ISMachine Gun, Left Arm
+1 ISMachine Gun, Right Arm
+1 ISMachine Gun, Right Arm
+1 ISLargeLaser, Right Torso
+1 ISERLargeLaser, Left Torso
+1 ISImprovedC3CPU, Center Torso
+1 ISLRM5, Left Torso, Ammo:48
+1 ISLRM5, Left Torso
+1 ISLRM5, Right Torso
+1 ISLRM5, Right Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMachine Gun
+ISMachine Gun
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMachine Gun
+ISMachine Gun
+
+Left Torso:
+ISERLargeLaser
+ISERLargeLaser
+ISLRM5
+ISLRM5
+ISLRM5 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISMG Ammo (100)
+ISCASE
+
+Right Torso:
+ISLargeLaser
+ISLargeLaser
+ISLRM5
+ISLRM5
+ISLRM5 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISMG Ammo (100)
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMachine Gun
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

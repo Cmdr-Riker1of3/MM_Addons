@@ -1,0 +1,134 @@
+Version:1.1
+Scrapper [Lostech Trials]
+SCRPR-1A-R2
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3045
+Rules Level:3
+
+Mass:75
+Engine:225 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Standard Armor
+LA Armor:23
+RA Armor:23
+LT Armor:20
+RT Armor:20
+CT Armor:30
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:8
+1 ISLRM5, Left Torso, Ammo:48
+1 ISLRM5, Right Torso
+1 ISLargePulseLaser, Right Arm
+1 ISStreakSRM2, Left Torso, Ammo:100
+1 ISStreakSRM2, Right Torso
+1 ISUltraAC5, Right Arm, Ammo:40
+1 ISSmallLaser (R), Center Torso (R)
+1 ISMediumPulseLaser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISMediumPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISLargePulseLaser
+ISLargePulseLaser
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+-Empty-
+
+Left Torso:
+ISLRM5
+ISStreakSRM2
+Jump Jet
+ISStreakSRM2 Ammo
+ISLRM5 Ammo
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISCASE
+ISUltraAC5 Ammo
+-Empty-
+-Empty-
+
+Right Torso:
+ISLRM5
+ISStreakSRM2
+Jump Jet
+ISLRM5 Ammo
+ISStreakSRM2 Ammo
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISCASE
+ISUltraAC5 Ammo
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSmallLaser (R)
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

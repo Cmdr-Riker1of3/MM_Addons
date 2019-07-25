@@ -1,0 +1,121 @@
+Version:1.1
+Sludge
+THXLZRD-K1
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3065
+Rules Level:3
+
+Mass:90
+Engine:270 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:29
+RT Armor:29
+CT Armor:45
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:9
+RTR Armor:9
+RTC Armor:13
+
+Weapons:7
+1 ISImprovedC3CPU, Right Torso
+1 ISGaussRifle, Left Torso, Ammo:24
+1 ISGaussRifle, Right Torso
+1 ISERLargeLaser, Center Torso
+1 ISERSmallLaser, Head
+1 ISERSmallLaser (R), Right Torso (R)
+1 ISERSmallLaser (R), Left Torso (R)
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Left Torso:
+ISGauss Ammo
+ISGauss Ammo
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISERSmallLaser (R)
+ISGauss Ammo
+ISCASE
+
+Right Torso:
+ISImprovedC3CPU
+ISImprovedC3CPU
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISERSmallLaser (R)
+-Empty-
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISERLargeLaser
+ISERLargeLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISERSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

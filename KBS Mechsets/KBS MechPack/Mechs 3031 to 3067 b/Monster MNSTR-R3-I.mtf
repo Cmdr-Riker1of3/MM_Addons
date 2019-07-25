@@ -1,0 +1,135 @@
+Version:1.1
+Monster
+MNSTR-R3-I
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3049
+Rules Level:2
+
+Mass:100
+Engine:200 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:2
+Jump MP:2
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:30
+RT Armor:30
+CT Armor:45
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:16
+
+Weapons:9
+1 ISLBXAC10, Left Arm, Ammo:40
+1 ISLBXAC10, Right Arm
+1 ISLBXAC10, Right Torso
+1 ISLBXAC10, Left Torso
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISMediumLaser (R), Center Torso (R)
+1 ISMediumLaser (R), Center Torso (R)
+1 ISSmallLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISMediumLaser
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISMediumLaser
+-Empty-
+-Empty-
+
+Left Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10 CL Ammo
+ISLBXAC10 Ammo
+ISCASE
+
+Right Torso:
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10 CL Ammo
+ISLBXAC10 Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumLaser (R)
+ISMediumLaser (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-

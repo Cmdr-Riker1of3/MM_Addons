@@ -1,0 +1,130 @@
+Version:1.1
+Shockwave
+SHCKWV-NX
+
+Config:Biped
+TechBase:Inner Sphere
+Era:0
+Rules Level:3
+
+Mass:80
+Engine:320 Light Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:16 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Fibrous
+LA Armor:23
+RA Armor:23
+LT Armor:22
+RT Armor:22
+CT Armor:31
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:11
+RTR Armor:11
+RTC Armor:16
+
+Weapons:4
+1 ISLargePulseLaser, Right Torso
+1 ISLargePulseLaser, Left Torso
+1 ISSmallLaser, Head
+1 ISPlasmaRifle, Right Arm, Ammo:40
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+ISLargePulseLaser
+ISLargePulseLaser
+Jump Jet
+Jump Jet
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+ISLargePulseLaser
+ISLargePulseLaser
+Jump Jet
+Jump Jet
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+Ferro-Fibrous
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Ferro-Fibrous
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

@@ -1,0 +1,149 @@
+Version:1.1
+RipperSnapper
+K-RPSP-NX01
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3066
+Rules Level:4
+
+Mass:50
+Engine:200 Fusion Engine
+Structure:Endo-Steel
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:16
+RA Armor:16
+LT Armor:16
+RT Armor:16
+CT Armor:21
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:6
+1 Claw, Right Arm
+1 Claw, Left Arm
+1 ISLightPPC, Right Torso
+1 ISLightPPC, Left Torso
+1 ISLargeXPulseLaser, Center Torso
+1 ISERSmallLaser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Claw
+claw
+Claw
+Claw
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Triple Strength Myomer
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Claw
+Claw
+Claw
+Claw
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Triple Strength Myomer
+-Empty-
+
+Left Torso:
+Jump Jet
+ISLightPPC
+ISLightPPC
+Jump Jet
+Triple Strength Myomer
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Torso:
+Jump Jet
+ISLightPPC
+ISLightPPC
+Jump Jet
+Triple Strength Myomer
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISLargeXPulseLaser
+ISLargeXPulseLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISERSmallLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Triple Strength Myomer
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-

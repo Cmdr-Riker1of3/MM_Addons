@@ -1,0 +1,132 @@
+Version:1.1
+Warhound
+WRHND-O B alt
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3066
+Rules Level:3
+
+Mass:75
+Engine:300 Light Fusion Engine
+Structure:Endo-Steel
+Myomer:Standard
+
+Heat Sinks:14 Double
+Base Chassis Heat Sinks: 12
+Walk MP:4
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:24
+RA Armor:24
+LT Armor:25
+RT Armor:25
+CT Armor:35
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:7
+RTR Armor:7
+RTC Armor:11
+
+Weapons:5
+1 ISRotaryAC5, Left Arm, Ammo:80
+1 ISRotaryAC5, Right Arm
+1 ISERMediumLaser, Left Torso
+1 ISERMediumLaser, Right Torso
+1 ISLargeLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+-Empty-
+Endo-Steel
+Endo-Steel
+Endo-Steel
+
+Left Torso:
+Engine
+Engine
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+ISERMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+ISCASE
+Endo-Steel
+Endo-Steel
+
+Right Torso:
+Engine
+Engine
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+ISERMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+ISCASE
+Endo-Steel
+Endo-Steel
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISLargeLaser
+ISLargeLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

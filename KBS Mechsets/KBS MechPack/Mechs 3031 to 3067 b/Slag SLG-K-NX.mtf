@@ -1,0 +1,126 @@
+Version:1.1
+Slag
+SLG-K-NX
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3065
+Rules Level:2
+
+Mass:70
+Engine:280 Light Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:28
+RA Armor:28
+LT Armor:23
+RT Armor:23
+CT Armor:33
+HD Armor:9
+LL Armor:28
+RL Armor:28
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:12
+1 ISImprovedC3CPU, Left Torso
+1 ISLargeLaser, Right Torso
+1 ISERMediumLaser (R), Right Torso (R)
+1 ISFlamer, Head
+1 ISFlamer, Left Torso
+1 ISERMediumLaser (R), Left Torso (R)
+1 ISERMediumLaser, Center Torso
+1 ISLargeLaser, Left Torso
+1 ISSRM2, Right Torso, Ammo:150
+1 ISSRM2, Left Torso
+1 ISFlamer, Right Torso
+1 ISSRM2 (R), Center Torso (R)
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Left Torso:
+ISImprovedC3CPU
+ISImprovedC3CPU
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISLargeLaser
+ISLargeLaser
+ISSRM2
+ISERMediumLaser (R)
+ISFlamer
+Engine
+Engine
+
+Right Torso:
+ISCASE
+-Empty-
+ISSRM2 Ammo
+ISSRM2 Ammo
+ISSRM2 Ammo
+ISLargeLaser
+ISLargeLaser
+ISSRM2
+ISERMediumLaser (R)
+ISFlamer
+Engine
+Engine
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISERMediumLaser
+ISSRM2 (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISFlamer
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-

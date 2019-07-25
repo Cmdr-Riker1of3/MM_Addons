@@ -1,0 +1,122 @@
+Version:1.1
+Wolf Omni
+WOLF-O E
+
+Config:Quad Omnimech
+TechBase:Inner Sphere
+Era:3055
+Rules Level:3
+
+Mass:35
+Engine:280 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Base Chassis Heat Sinks: 10
+Walk MP:8
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:10
+RA Armor:10
+LT Armor:8
+RT Armor:8
+CT Armor:10
+HD Armor:9
+LL Armor:10
+RL Armor:10
+RTL Armor:4
+RTR Armor:4
+RTC Armor:5
+
+Weapons:7
+1 ISC3SlaveUnit, Head
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISLRM5, Left Torso, Ammo:24
+1 ISLRM5, Right Torso
+1 ISSRM2, Left Torso, Ammo:50
+1 ISSRM2, Right Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISMediumLaser
+ISLRM5
+ISSRM2
+ISSRM2 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISCASE
+
+Right Torso:
+Engine
+Engine
+Engine
+ISMediumLaser
+ISLRM5
+ISSRM2
+ISLRM5 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISC3SlaveUnit
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

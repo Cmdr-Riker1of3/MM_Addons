@@ -1,0 +1,133 @@
+Version:1.1
+Megatron Omni
+MGTRN2-O C
+
+Config:Biped Omnimech
+TechBase:Inner Sphere
+Era:3057
+Rules Level:3
+
+Mass:80
+Engine:400 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Base Chassis Heat Sinks: 10
+Walk MP:5
+Jump MP:4
+
+Armor:Ferro-Fibrous
+LA Armor:23
+RA Armor:23
+LT Armor:21
+RT Armor:21
+CT Armor:31
+HD Armor:9
+LL Armor:28
+RL Armor:28
+RTL Armor:6
+RTR Armor:6
+RTC Armor:10
+
+Weapons:6
+1 ISERMediumLaser, Left Arm
+1 ISERMediumLaser, Right Arm
+1 ISERMediumLaser, Left Arm
+1 ISLBXAC10, Right Torso, Ammo:20
+1 ISSmallLaser, Head
+1 ISC3MasterComputer, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+ISERMediumLaser
+-Empty-
+-Empty-
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Left Torso:
+Engine
+Engine
+Engine
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+ISC3MasterComputer
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Torso:
+Engine
+Engine
+Engine
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10 CL Ammo
+ISLBXAC10 Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Ferro-Fibrous

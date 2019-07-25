@@ -1,0 +1,120 @@
+Version:1.1
+RazorClaw
+RZRCLW-NX02
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3065
+Rules Level:2
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:29
+RA Armor:29
+LT Armor:24
+RT Armor:24
+CT Armor:34
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:7
+RTR Armor:7
+RTC Armor:11
+
+Weapons:6
+1 ISLBXAC10, Left Torso, Ammo:20
+1 ISMachine Gun, Right Arm, Ammo:200
+1 ISMachine Gun, Right Arm
+1 ISMachine Gun, Left Arm
+1 ISMachine Gun, Left Arm
+1 ISPPC, Right Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMachine Gun
+ISMachine Gun
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISMachine Gun
+ISMachine Gun
+
+Left Torso:
+Jump Jet
+Jump Jet
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISMG Ammo (100)
+ISLBXAC10 CL Ammo
+ISLBXAC10 Ammo
+ISCASE
+
+Right Torso:
+Jump Jet
+Jump Jet
+ISPPC
+ISPPC
+ISPPC
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

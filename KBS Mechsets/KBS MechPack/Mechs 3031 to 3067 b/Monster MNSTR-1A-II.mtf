@@ -1,0 +1,135 @@
+Version:1.1
+Monster
+MNSTR-1A-II
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3055
+Rules Level:2
+
+Mass:100
+Engine:200 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:2
+Jump MP:2
+
+Armor:Standard Armor
+LA Armor:33
+RA Armor:33
+LT Armor:28
+RT Armor:28
+CT Armor:45
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:14
+RTR Armor:14
+RTC Armor:16
+
+Weapons:9
+1 ISAC5, Left Torso, Ammo:40
+1 ISAC5, Right Torso
+1 ISUltraAC5, Left Torso, Ammo:40
+1 ISUltraAC5, Right Torso
+1 ISLargeLaser, Left Arm
+1 ISLargeLaser, Right Arm
+1 ISMediumLaser, Left Arm
+1 ISMediumLaser, Right Arm
+1 ISSmallLaser (R), Center Torso (R)
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargeLaser
+ISLargeLaser
+ISMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLargeLaser
+ISLargeLaser
+ISMediumLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Left Torso:
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5 Ammo
+ISAC5 Ammo
+ISCASE
+
+Right Torso:
+ISAC5
+ISAC5
+ISAC5
+ISAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5 Ammo
+ISAC5 Ammo
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSmallLaser (R)
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
