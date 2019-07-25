@@ -1,0 +1,132 @@
+Version:1.1
+City DefenderMech
+DFNDR-NX2470_2
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2470
+Rules Level:5
+
+Mass:50
+Engine:200 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:19 Single
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:16
+RA Armor:16
+LT Armor:16
+RT Armor:16
+CT Armor:20
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:6
+1 WreckingBall, Right Arm
+1 Retractable Blade, Left Arm
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser, Right Torso
+1 ISSmallLaser, Left Torso
+1 ISSmallLaser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Retractable Blade
+Retractable Blade
+Retractable Blade
+Retractable Blade
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+WreckingBall
+WreckingBall
+WreckingBall
+WreckingBall
+WreckingBall
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Jump Jet
+Jump Jet
+Heat Sink
+Heat Sink
+Heat Sink
+ISMediumLaser
+ISSmallLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Jump Jet
+Jump Jet
+Heat Sink
+Heat Sink
+Heat Sink
+ISMediumLaser
+ISSmallLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Heat Sink
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink

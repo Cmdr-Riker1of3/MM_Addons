@@ -1,0 +1,120 @@
+Version:1.1
+BattleRavage
+RVG-BTL001
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3067
+Rules Level:4
+
+Mass:75
+Engine:300 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:29
+RA Armor:29
+LT Armor:21
+RT Armor:21
+CT Armor:30
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:10
+RTR Armor:10
+RTC Armor:15
+
+Weapons:6
+1 ISPlasmaRifle, Right Torso, Ammo:40
+1 ISPlasmaRifle, Left Torso
+1 ISLightPPC, Right Torso
+1 ISLightPPC, Left Torso
+1 ISRocketLauncher10, Right Arm
+1 ISRocketLauncher10, Left Arm
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISRocketLauncher10
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISRocketLauncher10
+-Empty-
+
+Left Torso:
+Jump Jet
+Jump Jet
+ISPlasmaRifle
+ISPlasmaRifle
+ISLightPPC
+ISLightPPC
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Jump Jet
+Jump Jet
+ISPlasmaRifle
+ISPlasmaRifle
+ISLightPPC
+ISLightPPC
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

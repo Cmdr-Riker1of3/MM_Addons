@@ -1,0 +1,137 @@
+Version:1.1
+Toorima
+K-TRM-003
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3067
+Rules Level:4
+
+Mass:50
+Engine:250 Fusion Engine
+Structure:Endo-Steel
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Double
+Walk MP:5
+Jump MP:5
+
+Armor:Standard Armor
+LA Armor:15
+RA Armor:15
+LT Armor:15
+RT Armor:15
+CT Armor:19
+HD Armor:9
+LL Armor:23
+RL Armor:23
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:11
+1 Claw, Left Arm
+1 Claw, Right Arm
+1 ISERMediumLaser, Right Torso
+1 ISERMediumLaser, Left Torso
+1 ISMediumXPulseLaser, Left Torso
+1 ISMediumXPulseLaser, Right Torso
+1 ISRocketLauncher10, Center Torso
+1 ISRocketLauncher10, Left Torso
+1 ISRocketLauncher10, Right Torso
+1 ISRocketLauncher10, Left Torso
+1 ISRocketLauncher10, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Claw
+Claw
+Claw
+Claw
+Triple Strength Myomer
+Triple Strength Myomer
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Claw
+Claw
+Claw
+Claw
+Triple Strength Myomer
+Triple Strength Myomer
+Endo-Steel
+Endo-Steel
+-Empty-
+
+Left Torso:
+Jump Jet
+ISERMediumLaser
+ISMediumXPulseLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Triple Strength Myomer
+Jump Jet
+ISRocketLauncher10
+ISRocketLauncher10
+-Empty-
+-Empty-
+
+Right Torso:
+Jump Jet
+ISERMediumLaser
+ISMediumXPulseLaser
+Endo-Steel
+Endo-Steel
+Endo-Steel
+Triple Strength Myomer
+Jump Jet
+ISRocketLauncher10
+ISRocketLauncher10
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Jump Jet
+ISRocketLauncher10
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Endo-Steel
+Endo-Steel

@@ -1,0 +1,137 @@
+Version:1.1
+Monster
+MNSTR-VX01-II
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3066
+Rules Level:4
+
+Mass:100
+Engine:200 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:2
+Jump MP:2
+
+Armor:Standard Armor
+LA Armor:34
+RA Armor:34
+LT Armor:30
+RT Armor:30
+CT Armor:46
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:11
+RTR Armor:11
+RTC Armor:15
+
+Weapons:11
+1 ISPlasmaRifle, Left Arm, Ammo:60
+1 ISPlasmaRifle, Right Arm
+1 ISImprovedC3CPU, Center Torso
+1 ISSNPPC (R), Left Torso (R)
+1 ISSNPPC (R), Right Torso (R)
+1 ISSNPPC, Right Torso
+1 ISSNPPC, Left Torso
+1 ISSmallXPulseLaser, Left Arm
+1 ISSmallXPulseLaser, Right Arm
+1 ISSmallXPulseLaser (R), Right Torso (R)
+1 ISSmallXPulseLaser (R), Left Torso (R)
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISSmallXPulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISSmallXPulseLaser
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Left Torso:
+ISCASE
+ISSNPPC (R)
+ISSNPPC (R)
+ISSNPPC
+ISSNPPC
+ISSmallXPulseLaser (R)
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Right Torso:
+ISCASE
+ISSNPPC (R)
+ISSNPPC (R)
+ISSNPPC
+ISSNPPC
+ISSmallXPulseLaser (R)
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISPlasmaRifle Ammo
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-

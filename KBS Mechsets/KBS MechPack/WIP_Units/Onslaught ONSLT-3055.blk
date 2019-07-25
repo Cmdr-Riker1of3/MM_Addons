@@ -1,0 +1,77 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Onslaught
+</Name>
+
+<Model>
+ONSLT-3055
+</Model>
+
+<year>
+3055
+</year>
+
+<type>
+IS Level 3
+</type>
+
+<tonnage>
+80.0
+</tonnage>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<armor>
+44
+42
+42
+40
+</armor>
+
+<Body Equipment>
+ISCASE
+IS LB 10-X Cluster Ammo
+IS LB 10-X AC Ammo
+IS LB 10-X AC Ammo
+Cargo (0.5 tons)
+</Body Equipment>
+
+<Front Equipment>
+PPC
+PPC
+ISLBXAC10
+ISLBXAC10
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+

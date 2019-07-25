@@ -1,0 +1,120 @@
+Version:1.1
+IH FireFighting Quad
+IH-FFQ-2500
+
+Config:Quad
+TechBase:Inner Sphere
+Era:2500
+Rules Level:4
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Industrial
+Cockpit:Industrial Cockpit (AFC)
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Industrial
+LA Armor:20
+RA Armor:20
+LT Armor:21
+RT Armor:21
+CT Armor:25
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:5
+1 ISFluidGun, Left Torso, Ammo:200
+1 ISFluidGun, Right Torso
+1 ISFluidGun, Center Torso
+1 Searchlight, Left Torso
+1 Searchlight, Right Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Left Torso:
+ISFluidGun
+ISFluidGun
+ISFluidGunFoamAmmo
+ISFluidGunFoamAmmo
+ISFluidGunWaterAmmo
+ISFluidGunWaterAmmo
+ISFluidGunWaterAmmo
+Searchlight
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISFluidGun
+ISFluidGun
+ISFluidGunFoamAmmo
+ISFluidGunFoamAmmo
+ISFluidGunWaterAmmo
+ISFluidGunWaterAmmo
+ISFluidGunWaterAmmo
+Searchlight
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISFluidGun
+ISFluidGun
+
+Head:
+Life Support
+Sensors
+Cockpit
+EjectionSeat
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

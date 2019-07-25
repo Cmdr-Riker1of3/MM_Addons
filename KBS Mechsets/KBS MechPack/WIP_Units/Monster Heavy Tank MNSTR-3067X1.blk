@@ -1,0 +1,121 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Monster Heavy Tank
+</Name>
+
+<Model>
+MNSTR-3067X1
+</Model>
+
+<year>
+3067
+</year>
+
+<type>
+IS Level 2
+</type>
+
+<tonnage>
+100.0
+</tonnage>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<engine_type>
+2
+</engine_type>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<armor>
+46
+42
+42
+36
+34
+</armor>
+
+<Body Equipment>
+ISHeavyGauss Ammo
+ISHeavyGauss Ammo
+ISHeavyGauss Ammo
+ISHeavyGauss Ammo
+ISHeavyGauss Ammo
+ISHeavyGauss Ammo
+</Body Equipment>
+
+<Front Equipment>
+Medium Laser
+Medium Laser
+</Front Equipment>
+
+<Right Equipment>
+Small Laser
+Small Laser
+</Right Equipment>
+
+<Left Equipment>
+Small Laser
+Small Laser
+</Left Equipment>
+
+<Rear Equipment>
+Small Laser
+</Rear Equipment>
+
+<Turret Equipment>
+ISCASE
+ISHeavyGaussRifle
+ISHeavyGaussRifle
+Large Laser
+</Turret Equipment>
+
+<history>
+Overview:
+The Monster Heavy Tank line was retired in 2825, replaced by the MNSTR-1A-I Monster Battlemech. Although the line was retired, 100 of the units still serve as Defense units on Haven III, New Iowa, and New Ireland, with 400 more in reserves.
+
+During the United Systems Civil War (3053-3055), More of the tanks were re-activated to serve. From 500, at the end of the war, only 200 were left.  New Iowa Armor Works, in 3056, Established a new factory in  the Epsion Omega system, but what they would be producing was never announced. Only one thing was certain, It was Military related, and it was a Tank of some kind.
+
+Everyone got to see what was being built in 3060 during a pirate raid. Expecting minimal forces, The band of pirates using light mechs got a rude reality check when they dropped in the middle of the proving grounds as they were testing 4 new prototypes...The NEW Monster Heavy Tanks. While the light mechs had speed to their advantage, The Monsters had the raw firepower and specail abilites a Tank has over a mech, and, in short time, repelled the wayward pirates.
+
+The new Monster 3067 Tanks started rolling off the line in 3065 to start replacing the older 26XXs that were lost in battles. Even though the 3067s are about 10,000,000 more than the old 26XXs, They cite the upgraded systems are well worth the extra cost.
+Capability:
+The new 3067 series retains the top speed of 32.4 kph, but is now powered by the new Ford 200XL Extra-light engine, with 10 standard heatsinks integrated into the engine. With the weight savings, the designers upgraded the weapon systems in the unit.
+
+The armor coverage remained the same: 12.5 tons of standard armor. While the designers could have used the advanced Ferro-Fibrous, the decided to use the standard to keep repair costs as low as they can. CASE was also added to units using ammo-fed weaponry to protect the crew incase of ammo explosion.
+
+
+Battle History:
+ 
+Variants:
+MNSTR-3067 [Factory variant]
+Turret:  The 4 standard Class 5 autocannons were replaced with Class 5 "Shot Gun" LB-X autocannons, each fed by 2 tons of ammo. The large laser was replaced with a PPC for added range and punch. 
+Front: Retains the 2 Medium lasers
+Sides: Retains the single small laser in each side
+Rear: Adds a second small laser to the first.
+
+10 more heat sinks were added to keep the tank cool while firing the energy weapons.
+ 
+Famous Vehicles and Pilots:
+ 
+Deployment:
+As of 3067, as few as 100 units have been deployed to replace units destroyed, with more being produced.
+</history>
+

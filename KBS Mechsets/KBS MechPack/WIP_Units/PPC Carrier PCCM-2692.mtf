@@ -1,0 +1,132 @@
+Version:1.1
+PPC Carrier
+PCCM-2692
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2690
+Rules Level:3
+
+Mass:100
+Engine:200 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:38 Single
+Walk MP:2
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:33
+RA Armor:33
+LT Armor:28
+RT Armor:28
+CT Armor:45
+HD Armor:9
+LL Armor:42
+RL Armor:42
+RTL Armor:14
+RTR Armor:14
+RTC Armor:16
+
+Weapons:6
+1 ISPPC, Right Arm
+1 ISPPC, Right Torso
+1 ISPPC, Left Arm
+1 ISPPC, Left Torso
+1 ISSmallLaser, Center Torso
+1 ISMediumLaser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISPPC
+ISPPC
+ISPPC
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISPPC
+ISPPC
+ISPPC
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+
+Left Torso:
+ISPPC
+ISPPC
+ISPPC
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+-Empty-
+
+Right Torso:
+ISPPC
+ISPPC
+ISPPC
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSmallLaser
+ISMediumLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
