@@ -1,0 +1,82 @@
+The KBS Mechs and Vehicle files
+The Tech Readouts for these units can be found at the following locations:
+
+Kronos Battle Systems [KBS]:
+
+
+This mechpack contains the units and variants listed, along with a few
+other units that are unlisted, bonus variants, or works in progress.
+To install:
+
+Copy the folder
+
+KBS Mechpack
+
+to [Megamek/MechHQ folder]/data/mechfiles.
+
+4: The KBS image pack (optional)
+These are unit images for MegaMek, created using the following
+programs:
+DoGA (used to create an inital image in png format)
+GIMP (Used to convert the png image to 84 x 72 grayscale gif)
+
+Installing this part takes longer, but is well worth it to use
+ the new images for the KBS Mechs you added in part 3.
+
+Step 1:
+Copy the following to [Megamek/MechHQ folder]/data/images/units
+
+Folder: KBS_Units
+file: KBS_Mechset.txt
+
+Step 2:
+Open either:
+
+mechset.txt
+localclient_mechset.txt
+localserver_mechset.txt
+
+located in [Megamek/MechHQ folder]/data/images/units.
+
+Step 3a:
+If you opened either
+localclient_mechset.txt
+localserver_mechset.txt
+
+At the end of the file, add the following lines:
+
+# Kronos Battle Systems units
+include kbs_mechset.txt
+
+Procede to step 4.
+
+Step 3b:
+If you opened the file
+
+mechset.txt
+
+Locate these lines:
+
+        # As of v0.29.61, mechset files can include other mechset files.
+        include localserver_mechset.txt
+
+        # these 18 must be in here
+        
+After "include Localserver_mechset.txt" add the lines
+
+        # Kronos Battle Systems units
+        include kbs_mechset.txt
+
+When done, it should look like this:
+
+        # As of v0.29.61, mechset files can include other mechset files.
+        include localserver_mechset.txt
+        # Kronos Battle Systems units
+        include kbs_mechset.txt
+
+        # these 18 must be in here
+
+Procede to step 4.
+
+Step 4:
+Save the changes. Now you should see the new images with the new mechs

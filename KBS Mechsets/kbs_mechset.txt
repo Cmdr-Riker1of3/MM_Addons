@@ -1,0 +1,170 @@
+#------------------------------------------------------------------
+# Kronos Battle System Units
+#------------------------------------------------------------------
+#Images Created with DoGA and GIMP
+
+# Vehicles
+Chassis "Swindle APC" "kbs_units/swindlenx01.gif"
+exact "Swindle APC SWNDL-NX01" "kbs_units/swindleNX01.gif"
+exact "Swindle APC SWNDL-NX02" "kbs_units/swindleNX02.gif"
+exact "Swindle APC SWNDL-NX03" "kbs_units/swindleNX03.gif"
+chassis "TidalWave" "kbs_units/TidalWave.gif"
+exact "Brawl BRWL-1A1" "kbs_units/Brawl_Tank_1A1.gif"
+exact "Brawl BRWL-1A2" "kbs_units/Brawl_Tank_1A2.gif"
+exact "Brawl BRWL-2A1" "kbs_units/Brawl_Tank_2A1.gif"
+exact "Brawl BRWL-2A2" "kbs_units/Brawl_Tank_2A2.gif"
+exact "Brawl BRWL-2A1c" "kbs_units/Brawl_Tank_2A1.gif"
+exact "Brawl BRWL-2A2c" "kbs_units/Brawl_Tank_2A2.gif"
+Chassis "Brawl" "kbs_units/Brawl_Tank_1A2.gif"
+
+
+# Vehicles with Mech counterparts [To prevent MM confusion]"
+chassis "Monster Heavy Tank" "kbs_units/Monster_Tank.gif" 
+exact "Onslaught ONSLT-NX01" "kbs_units/Onslaught_BR.gif"
+exact "Onslaught ONSLT-K01" "kbs_units/Onslaught_BR.gif"
+exact "Onslaught ONSLT-K02" "kbs_units/Onslaught_BR.gif"
+
+# Industrial/Comercial units
+chassis "IH Cargo Carrier Quad" "kbs_units/IH_CCQ.gif"
+Chassis "IH Cargo Carrier Quad (Combat Variant)" "kbs_units/IH_CCQCV.gif"
+Chassis "IH Cargo Carrier Quad CV" "kbs_units/IH_CCQCV.gif"
+
+
+#DinoMechs (including Swoop LAM)
+chassis "Grimlock" "kbs_units/grimlock.gif"
+Chassis "Slag" "kbs_units/Slag.gif"
+chassis "Snarl" "kbs_units/Snarl.gif"
+chassis "Sludge" "kbs_units/sludge_thunderlizard.gif"
+chassis "ThunderLizard [Sludge]" "kbs_units/sludge_thunderlizard.gif"
+chassis "Swoop" "kbs_units/swoop.gif
+chassis "Swoop LAM" "kbs_units/swoop.gif"
+Chassus "Swoop Omni-LAM" "kbs_units/swoop.gif"
+
+# Predimechs (Including Divebomb LAM)
+exact "Rampage RMPG-NX01" "kbs_units/Rampage.gif"
+exact "Rampage RMPG-NX02" "kbs_units/Rampage.gif"
+exact "Rampage RMPG-NX03c" "kbs_units/Rampage.gif"
+exact "Rampage RMPG-NX04c" "kbs_units/Rampage.gif"
+chassis "Tantrum [KBS]" "kbs_units/Tantrum.gif"
+chassis "Tantrum [RMW]" "kbs_units/Tantrum.gif"
+chassis "Tantrum" "kbs_units/Tantrum.gif"
+chassis "RazorClaw" "kbs_units/Razorclaw.gif"
+chassis "HeadStrong" "kbs_units/Headstrong.gif"
+Chassis "DiveBomb" "kbs_units/Divebomb.gif"
+chassis "DiveBomb LAM" "kbs_units/Divebomb.gif"
+
+# MEgatron G1
+exact "Megatron MGTRN-NX2560" "kbs_units/Megatron_g1.gif"
+exact "Megatron MGTRN-1A" "kbs_units/Megatron_g1.gif"
+exact "Megatron MGTRN-2A" "kbs_units/Megatron_g1.gif"
+exact "Megatron MGTRN-c CopperFox" "kbs_units/Megatron_g1.gif"
+exact "Megatron MGTRN-R1" "kbs_units/Megatron_g1.gif"
+exact "Megatron MGTRN-KBS01X" "kbs_units/Megatron_g1.gif"
+
+# Megatron Omni
+chassis "Megatron Omni" "kbs_units/Megatron Omni.gif"
+Exact "Megatron Omni MGTRN2-O B" "kbs_units/Megatron Omni B.gif" 
+
+# Megatron V-Class [KBS]
+exact "Megatron (KBS Prototype) MGTRN-V-NX3067" "kbs_units/Megatron_V.gif"
+exact "Megatron MGTRN-V-1A" "kbs_units/Megatron_V.gif"
+exact "Megatron MGTRN-V-1AC" "kbs_units/Megatron_V.gif"
+exact "Megatron MGTRN-V-X001" "kbs_units/Megatron_V.gif"
+exact "Megatron MGTRN-V-X001C" "kbs_units/Megatron_V.gif"
+exact "Megatron MGTRN-V-1ACMD" "kbs_units/Megatron_V.gif"
+
+# Megatron Dark Age [KBS]
+Chassis "Megatron" "kbs_units/Megatron_g1.gif"
+
+# Scrapper
+chassis "Scrapper" "kbs_units/Scrapper.gif"
+chassis "Scrapper [SL Prototype]" "kbs_units/Scrapper.gif"
+chassis "Scrapper [War Emergency]" "kbs_units/Scrapper.gif"
+chassis "Scrapper [Lostech Trials]" "kbs_units/Scrapper.gif"
+
+# Ravage
+chassis "Ravage" "KBS_units/Ravage_1L1.gif"
+exact "Ravage RVG-1L1" "KBS_units/Ravage_1L1.gif"
+exact "Ravage RVG-1C" "KBS_units/Ravage_1C.gif"
+exact "Ravage RVG-2A" "KBS_units/Ravage_XPPC.gif"
+exact "Ravage RVG-2A1L" "KBS_units/Ravage_XPPC.gif"
+exact "Ravage RVG-2A1R" "KBS_units/Ravage_XPPC.gif"
+exact "Ravage RVG-2A2" "KBS_units/Ravage_XPPC.gif"
+exact "Ravage RVG-XPPC" "KBS_units/Ravage_XPPC.gif"
+exact "Ravage RVG-2B" "KBS_units/Ravage_1C.gif"
+
+# Monster Mechs
+chassis "Monster" "kbs_units/Monster 1A.gif"
+exact "Monster MNSTR-1A-I" "kbs_units/Monster 1A.gif"
+exact "Monster MNSTR-CD-I" "kbs_units/Monster CD1.gif"
+exact "Monster MNSTR-R1-I" "kbs_units/Monster R1_1.gif"
+exact "Monster MNSTR-R3-I" "kbs_units/Monster R3_1.gif"
+exact "Monster MNSTR-1A-2" "kbs_units/Monster 1A2.gif"
+exact "Monster MNSTR-1A-II" "kbs_units/Monster 1A2.gif"
+
+# Minuteman
+chassis "Minuteman" "kbs_units/minuteman_1a.gif"
+exact "Minuteman MNTMN-1A-1" "kbs_units/minuteman_1A.gif"
+exact "Minuteman mntmn-R01LH" "kbs_units/minuteman_R1.gif"
+exact "Minuteman MNTMN-R01RH" "kbs_units/minuteman_R1_R.gif"
+
+
+# Land-Air Mechs (Shown in Air-Mech mode
+Chassis "AlphaHawk" "kbs_units/AlphaHawk.gif"
+Chassis "AlphaHawk LAM" "kbs_units/AlphaHawk.gif"
+Chassis "BetaHawk" "kbs_units/BetaHawk.gif"
+Chassis "BetaHawk LAM" "kbs_units/BetaHawk.gif"
+Chassis "NightRaven" "kbs_units/NightRaven_1A.gif"
+Chassis "NightRaven LAM" "kbs_units/NightRaven_1A.gif"
+Exact "NightRaven NGHTRVN-1L1" "kbs_units/Nightraven_1L1.gif"
+Exact "NightRaven LAM NGHTRVN-1L1 (u)" "kbs_units/Nightraven_1L1.gif"
+Exact "NightRaven NGHTRVN-R1" "kbs_units/Nightraven_R1.gif"
+Exact "NightRaven NGHTRVN-F50" "kbs_units/Nightraven_F50.gif"
+Exact "NightRaven NGHTRVN-F55" "kbs_units/Nightraven_F50.gif"
+Exact "NightRaven LAM NGHTRVN-R1 (u)" "kbs_units/Nightraven_R1.gif"
+Exact "NightRaven LAM NGHTRVN-F50 (u)" "kbs_units/Nightraven_F50.gif"
+Exact "NightRaven LAM NGHTRVN-F55 (u)" "kbs_units/Nightraven_F50.gif"
+chassis "Conquest" "kbs_units/conquest.gif"
+chassis "Conquest LAM" "kbs_units/conquest.gif"
+
+#KBS S7 Arena Mechs
+chassis "RipperSnapper" "kbs_units/RipperSnapper.gif"
+chassis "RipperSnapper TerrorMech" "kbs_units/RipperSnapper.gif"
+chassis "Toorima" "kbs_units/Toorima.gif"
+chassis "Toorima TerrorMech" "kbs_units/toorima.gif"
+chassis "Blot" "kbs_units/Blot.gif"
+chassis "Blot TerrorMech" "kbs_units/blot.gif"
+Chassis "SinnerTwin" "kbs_units/sinnertwin.gif"
+Chassis "SinnerTwin TerrorMech" "kbs_units/sinnertwin.gif"
+Chassis "Cranna" "kbs_units/Cranna.gif"
+Chassis "Cranna Terrormech" "kbs_units/Cranna.gif"
+Exact "Cranna K4-CRN-X01" "kbs_units/Cranna_DA.gif"
+exact "Cranna TerrorMech K4-CRN-X01" "kbs_units/Cranna_DA.gif"
+
+#Bonecrusher Series
+chassis "Bonecrusher" "kbs_units/Bonecrusher.gif"
+chassis "Bonecrusher (3047 refit)" "kbs_units/Bonecrusher.gif"
+
+#Deathstrike series
+chassis "Deathstrike [KBS]" "kbs_units/Deathstrike.gif"
+chassis "Deathstrike [RMW]" "kbs_units/deathstrike.gif"
+chassis "Deathstrike" "kbs_units/deathstrike.gif"
+
+#Quasimodo
+chassis "Quasimodo" "kbs_units/quasimodo.gif"
+
+#Warhound Omni
+Chassis "Warhound" "kbs_units/warhound omni.gif"
+chassis "Warhound Omni" "kbs_units/warhound omni.gif"
+
+#Wolf
+Chassis "Wolf" "kbs_units/Wolf 1A.gif"
+Chassis "Wolf Omni" "kbs_units/Wolf Omni.gif"
+exact "Wolf WOLF-LX1-I" "kbs_units/wolf lx1.gif"
+exact "Wolf WOLF-PPC-I" "kbs_units/Wolf PPC.gif"
+exact "Wolf Omni WOLF-O Prime" "kbs_units/Wolf Omni.gif"
+exact "Wolf Omni WOLF-O A" "kbs_units/Wolf OA.gif"
+Exact "Wolf Omni WOLF-O B" "KBS_Units/Wolf OB.gif"
+Exact "Wolf Omni WOLF-O C" "kbs_units/Wolf PPC.gif"
+
+#End of List
