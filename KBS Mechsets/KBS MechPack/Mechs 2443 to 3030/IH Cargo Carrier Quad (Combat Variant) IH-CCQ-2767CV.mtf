@@ -1,0 +1,122 @@
+Version:1.1
+IH Cargo Carrier Quad (Combat Variant)
+IH-CCQ-2767CV
+
+Config:Quad
+TechBase:Inner Sphere
+Era:2767
+Rules Level:4
+
+Mass:80
+Engine:240 Fusion Engine
+Structure:Industrial
+Cockpit:Industrial Cockpit (AFC)
+Myomer:Standard
+
+Heat Sinks:12 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:16
+RA Armor:16
+LT Armor:20
+RT Armor:20
+CT Armor:22
+HD Armor:9
+LL Armor:16
+RL Armor:16
+RTL Armor:8
+RTR Armor:8
+RTC Armor:9
+
+Weapons:7
+1 ISCargoContainer, Left Torso
+1 ISCargoContainer, Right Torso
+1 ISCargoContainer, Center Torso
+1 ISMediumLaser, Right Torso
+1 ISMediumLaser (R), Right Torso (R)
+1 ISMediumLaser, Left Torso
+1 ISMediumLaser (R), Left Torso (R)
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Left Torso:
+ISCargoContainer
+Heat Sink
+ISMediumLaser
+ISMediumLaser (R)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISCargoContainer
+Heat Sink
+ISMediumLaser
+ISMediumLaser (R)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISCargoContainer
+Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+EjectionSeat
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

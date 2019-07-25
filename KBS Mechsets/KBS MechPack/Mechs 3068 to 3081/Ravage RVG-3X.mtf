@@ -1,0 +1,117 @@
+Version:1.1
+Ravage
+RVG-3X
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3070
+Rules Level:4
+
+Mass:50
+Engine:300 XL Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:6
+Jump MP:6
+
+Armor:Standard Armor
+LA Armor:20
+RA Armor:20
+LT Armor:16
+RT Armor:16
+CT Armor:21
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:8
+RTR Armor:8
+RTC Armor:10
+
+Weapons:3
+1 ISThunderbolt5, Left Torso, Ammo:24
+1 ISThunderbolt5, Right Torso
+1 ISSNPPC, Center Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Left Torso:
+Engine
+Engine
+Engine
+ISThunderbolt5
+ISThunderbolt5 Ammo
+ISCASE
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Engine
+Engine
+Engine
+ISThunderbolt5
+ISThunderbolt5 Ammo
+ISCASE
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISSNPPC
+ISSNPPC
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-

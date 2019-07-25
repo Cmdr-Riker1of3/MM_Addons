@@ -1,0 +1,118 @@
+Version:1.1
+Wolf
+WOLF-SRM-I
+
+Config:Quad
+TechBase:Inner Sphere
+Era:2955
+Rules Level:1
+
+Mass:35
+Engine:245 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:7
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:12
+RA Armor:12
+LT Armor:9
+RT Armor:9
+CT Armor:10
+HD Armor:9
+LL Armor:12
+RL Armor:12
+RTL Armor:3
+RTR Armor:3
+RTC Armor:5
+
+Weapons:4
+1 ISMediumLaser, Head
+1 ISSmallLaser (R), Center Torso (R)
+1 ISSRM4, Left Torso, Ammo:50
+1 ISSRM4, Right Torso
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Left Torso:
+ISSRM4
+ISSRM4 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISSRM4
+ISSRM4 Ammo
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+Heat Sink
+ISSmallLaser (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISMediumLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-

@@ -1,0 +1,132 @@
+Version:1.1
+Grimlock
+GRMLCK-VX
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3070
+Rules Level:3
+
+Mass:85
+Engine:255 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:3
+Jump MP:0
+
+Armor:Standard Armor
+LA Armor:27
+RA Armor:27
+LT Armor:24
+RT Armor:24
+CT Armor:36
+HD Armor:9
+LL Armor:35
+RL Armor:35
+RTL Armor:12
+RTR Armor:12
+RTC Armor:15
+
+Weapons:6
+1 ISFlamer, Head
+1 ISImprovedC3CPU, Center Torso
+1 ISLargeLaser, Left Torso
+1 ISRotaryAC5, Left Torso, Ammo:100
+1 ISLargeLaser, Right Torso
+1 ISRotaryAC5, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDouble Heat Sink
+ISDouble Heat Sink
+ISDouble Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISCASE
+ISLargeLaser
+ISLargeLaser
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+-Empty-
+
+Right Torso:
+ISCASE
+ISLargeLaser
+ISLargeLaser
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+ISRotaryAC5
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+IS Rotary AC/5 Ammo
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISImprovedC3CPU
+ISImprovedC3CPU
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISFlamer
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
