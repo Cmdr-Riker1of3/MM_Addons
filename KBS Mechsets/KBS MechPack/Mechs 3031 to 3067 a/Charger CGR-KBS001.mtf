@@ -1,0 +1,131 @@
+Version:1.1
+Charger
+CGR-KBS001
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3057
+Rules Level:2
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous
+LA Armor:26
+RA Armor:26
+LT Armor:20
+RT Armor:20
+CT Armor:34
+HD Armor:9
+LL Armor:34
+RL Armor:34
+RTL Armor:12
+RTR Armor:12
+RTC Armor:14
+
+Weapons:5
+1 ISSmallLaser, Left Arm
+1 ISSmallLaser, Left Arm
+1 ISStreakSRM6, Left Torso, Ammo:15
+1 ISMediumPulseLaser, Center Torso
+1 ISLBXAC20, Right Torso, Ammo:20
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISSmallLaser
+ISSmallLaser
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISStreakSRM6
+ISStreakSRM6
+ISStreakSRM6 Ammo
+ISLBXAC20 Ammo
+ISLBXAC20 Ammo
+ISLBXAC20 CL Ammo
+ISLBXAC20 CL Ammo
+ISCASE
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+ISLBXAC20
+-Empty-
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+ISMediumPulseLaser
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Ferro-Fibrous
+Ferro-Fibrous

@@ -1,0 +1,118 @@
+Version:1.1
+BattleCannon
+BTLCNN-B1A
+
+Config:Quad
+TechBase:Inner Sphere
+Era:3048
+Rules Level:3
+
+Mass:80
+Engine:320 Fusion Engine
+Structure:Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Fibrous
+LA Armor:30
+RA Armor:30
+LT Armor:25
+RT Armor:25
+CT Armor:36
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:7
+RTR Armor:7
+RTC Armor:12
+
+Weapons:4
+1 ISERLargeLaser, Right Torso
+1 ISLRM5, Right Torso, Ammo:24
+1 ISLRM5, Right Torso
+1 ISLBXAC10, Left Torso, Ammo:20
+
+Left Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Ferro-Fibrous
+
+Right Arm:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Ferro-Fibrous
+
+Left Torso:
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10
+ISLBXAC10 Ammo
+ISLBXAC10 CL Ammo
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+ISCASE
+
+Right Torso:
+ISERLargeLaser
+ISERLargeLaser
+ISLRM5
+ISLRM5 Ammo
+ISLRM5
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+Ferro-Fibrous
+ISCASE
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Ferro-Fibrous
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Ferro-Fibrous

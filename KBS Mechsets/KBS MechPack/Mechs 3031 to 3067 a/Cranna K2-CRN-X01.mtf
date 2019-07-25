@@ -1,0 +1,143 @@
+Version:1.1
+Cranna
+K2-CRN-X01
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3065
+Rules Level:4
+
+Mass:65
+Engine:260 Light Fusion Engine
+Structure:Standard
+Myomer:Triple Strength Myomer
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Standard Armor
+LA Armor:18
+RA Armor:18
+LT Armor:20
+RT Armor:20
+CT Armor:26
+HD Armor:9
+LL Armor:28
+RL Armor:28
+RTL Armor:10
+RTR Armor:10
+RTC Armor:13
+
+Weapons:17
+1 Claw, Left Arm
+1 Claw, Right Arm
+1 ISMachine Gun, Left Torso, Ammo:400
+1 ISMachine Gun, Left Torso
+1 ISMachine Gun, Left Torso
+1 ISMachine Gun, Left Torso
+1 ISMachine Gun, Right Torso
+1 ISMachine Gun, Right Torso
+1 ISMachine Gun, Right Torso
+1 ISMachine Gun, Right Torso
+1 ISSmallLaser, Right Torso
+1 ISSmallLaser, Head
+1 ISSmallLaser, Left Torso
+1 ISMediumXPulseLaser, Right Torso
+1 ISMediumXPulseLaser, Right Torso
+1 ISMediumXPulseLaser, Left Torso
+1 ISMediumXPulseLaser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Claw
+Claw
+Claw
+Claw
+Claw
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Claw
+Claw
+Claw
+Claw
+Claw
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+-Empty-
+
+Left Torso:
+Engine
+Engine
+ISMG Ammo (100)
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISSmallLaser
+ISMediumXPulseLaser
+ISMediumXPulseLaser
+ISCASE
+Jump Jet
+
+Right Torso:
+Engine
+Engine
+ISMG Ammo (100)
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISMachine Gun
+ISSmallLaser
+ISMediumXPulseLaser
+ISMediumXPulseLaser
+ISCASE
+Jump Jet
+
+Center Torso:
+Engine
+Engine
+Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Engine
+Engine
+Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISSmallLaser
+Sensors
+Life Support
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+-Empty-
